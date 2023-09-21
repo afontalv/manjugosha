@@ -1,3 +1,3 @@
 # manjugosha
 
-![Preview](profile1.png) 
+![Preview](/imgs/profile1.png) 
